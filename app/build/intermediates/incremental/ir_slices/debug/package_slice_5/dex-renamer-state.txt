@@ -1,0 +1,4 @@
+#Mon Jul 08 00:30:56 WIB 2019
+base.0=/home/oxcart/AndroidStudioProjects/MovieCaatalog/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

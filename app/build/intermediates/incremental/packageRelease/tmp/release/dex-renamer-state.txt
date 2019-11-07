@@ -1,0 +1,4 @@
+#Mon Jul 08 00:22:19 WIB 2019
+base.0=/home/oxcart/AndroidStudioProjects/MovieCaatalog/app/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex
